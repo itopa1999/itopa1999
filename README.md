@@ -4,7 +4,7 @@
 
 I’m a backend-focused software engineer with experience building and maintaining scalable fintech systems. I work primarily with C# (.NET Core) and Python (Django), developing secure RESTful APIs for payment processing, transaction management, and real-time services.
 
-I also have hands-on experience working with live production systems—troubleshooting issues, analyzing logs, and improving system performance and reliability.
+I also have hands on experience working with live production systems troubleshooting issues, analyzing logs, and improving system performance and reliability.
 
 ---
 
